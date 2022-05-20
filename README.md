@@ -3,9 +3,10 @@ VMD plugin to create AMBER restraint files
 
 # Installation
 
-To install, add the "nmrmaker.tcl" file inside /usr/local/lib/vmd/plugins/noarch/tcl/
+To install, create a subfolder inside /usr/local/lib/vmd/plugins/noarch/tcl/
+and then place the "nmrmaker.tcl" and "pkgIndex.tcl" files inside the newly created folder
 
-and then add the following line to the .vmdrc file
+then add the following line to the .vmdrc file
 
 >vmd_install_extension nmrmaker ::restraintmaker::mkwindow NMRMaker.
 
