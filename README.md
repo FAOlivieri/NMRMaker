@@ -21,7 +21,7 @@ Alternatively, they can be placed in any directory and then add the following li
 
 # Usage
 
-With the RMNMaker window open, use the bond, angle or dihedral tools in VMD to create labels. Every time a bond, angle or dihedral label is created, a new restraint is added to the restraints file.
+With the NMRMaker window open, use the bond, angle or dihedral tools in VMD to create labels. Every time a bond, angle or dihedral label is created, a new restraint is added to the restraints file.
 
 If the "use pdb values" option is selected, all 4 restraint values will be exactly the value in the pdb file
 
