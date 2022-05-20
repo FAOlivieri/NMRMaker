@@ -16,7 +16,7 @@ With the RMNMaker window open, use the bond, angle or dihedral tools in VMD to c
 
 If the "use pdb values" option is selected, all 4 restraint values will be exactly the value in the pdb file
 
-If the "use custom values" option is selected, the restraint values will be thos specified on the text fields on the left of the RMNMaker window
+If the "use custom values" option is selected, the restraint values will be those specified on the text fields on the left of the RMNMaker window
 
 After creating all restraints, copy the information on the right of the RMNMaker window to your restraints file
 
