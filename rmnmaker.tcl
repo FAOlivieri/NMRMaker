@@ -19,7 +19,7 @@ namespace eval ::restraintmaker:: {
 
 }
 
-package provide rmnmaker 1.0 
+package provide nmrmaker 1.0 
 
 	proc ::restraintmaker::mkwindow {} {
 		global vmd_pick_atom vmd_pick_value
