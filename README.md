@@ -26,9 +26,11 @@ Alternatively, they can be placed in any directory and then add the following li
 
 # Usage
 
+If installation was successfull, an "NMRMaker" button should appear in the extensions tab.
+
 With the NMRMaker window open, use the bond, angle or dihedral tools in VMD to create labels. Every time a bond, angle or dihedral label is created, a new restraint is added to the restraints file.
 
-If the "use pdb values" option is selected, all 4 restraint values will be exactly the value in the pdb file
+If the "use pdb values" option is selected, all 4 restraint values will be set to exactly the value in the pdb file
 
 If the "use custom values" option is selected, the restraint values will be those specified on the text fields on the left of the RMNMaker window
 
