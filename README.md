@@ -2,7 +2,7 @@
 VMD plugin to create AMBER restraint files
 
 # Citation 
-If you use my software and like it, please cite it using the information on the information bar on the right or on the DOI badge
+If you use my software and like it, please cite it using the information on the "cite this repository" button on the right or on the DOI badge
 [![DOI](https://zenodo.org/badge/494545655.svg)](https://zenodo.org/badge/latestdoi/494545655)
 
 
