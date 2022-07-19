@@ -1,11 +1,6 @@
 # NMRMaker
 VMD plugin to create AMBER restraint files
 
-# Citation 
-If you use my software and like it, please cite it using the information on the "cite this repository" button on the right or on the DOI badge
-[![DOI](https://zenodo.org/badge/494545655.svg)](https://zenodo.org/badge/latestdoi/494545655)
-
-
 # Installation
 
 To install, create a directory inside /usr/local/lib/vmd/plugins/noarch/tcl/
@@ -19,9 +14,6 @@ then add the following line to the .vmdrc file
 Alternatively, they can be placed in any directory and then add the following line to the .vmdrc file before the install_extension command (this has not been tested)
 
 >lappend auto_path /WHERE/YOU/EXTRACTED/THE/TOOL
-
-
-
 
 
 # Usage
@@ -40,4 +32,8 @@ DO NOTS:
 
 - Do not use the atom label tool with the RMNMaker window open, as it interferes with normal operation of the plugin
 - Do not create any atom, bond, angle or dihedral labels before opening the RMNMaker window
+
+# Citation 
+If you use my software and like it, please cite it using the information on the "cite this repository" button on the right or on the DOI badge
+[![DOI](https://zenodo.org/badge/494545655.svg)](https://zenodo.org/badge/latestdoi/494545655)
 
